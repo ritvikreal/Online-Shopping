@@ -33,7 +33,7 @@ body{
 
 .heroSection{
 
-    padding:120px 20px;
+    padding:60px 20px;
 
     background:
     linear-gradient(
@@ -42,7 +42,7 @@ body{
     #f3ece4
     );
 
-    border-radius:0 0 60px 60px;
+    border-radius:0 0 40px 40px;
 
     text-align:center;
 }
