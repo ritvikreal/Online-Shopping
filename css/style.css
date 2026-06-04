@@ -202,12 +202,12 @@ body{
 
     object-fit:contain;
 
-    transition:0.5s;
+    transition: 1s;
 }
 
 .mainImage img:hover{
 
-    transform:scale(1.12);
+    transform:scale(1.4);
 }
 
 .smallImages{
